@@ -63,14 +63,12 @@ npm install react-select
 To access the Web Dashboard, run the following commands:
 
 ```bash
-cd code
 cd project_360
 npm start test
 ```
 Run the below commands in another terminal 
 
 ```bash
-cd code 
 cd project_360/django_project
 python3 manage.py runserver
 ```
